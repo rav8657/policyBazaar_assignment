@@ -101,9 +101,6 @@ export const userLogin = async (req, res) => {
             return res.status(400).send("user not found");
         }
 
-        // if (findUser.password != password) {
-        //     return res.status(400).send("wrong password");
-        // }
         if (!(password.length >= 8 && password.length <= 15)) {
             return res.status(400).send({ status: false, message: "Password should be Valid min 8 and max 15 " })
         }
