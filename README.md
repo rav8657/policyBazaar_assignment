@@ -56,17 +56,17 @@ name: {
 ```
   ### Postman samples
  
- ![A Postman collection sample](assets/CreateUser.JPG)
+ ![A Postman collection sample](assets/CreateUser.jpg)
 
- ![A Postman collection sample](assets/LoginUser.JPG)
+ ![A Postman collection sample](assets/LoginUser.jpg)
 
- ![A Postman collection sample](assets/AddTask.JPG)
+ ![A Postman collection sample](assets/AddTask.jpg)
  
- ![A Postman collection sample](assets/GetAllTasks.JPG)
+ ![A Postman collection sample](assets/GetAllTasks.jpg)
 
- ![A Postman collection sample](assets/GetTask.JPG)
+ ![A Postman collection sample](assets/GetTask.jpg)
  
- ![A Postman collection sample](assets/updateTask.jpg)
+ ![A Postman collection sample](assets/UpdateTask.jpg)
 
  ![A Postman collection sample](assets/DeleteTask.jpg)
  
